@@ -73,11 +73,7 @@ A chat window will open, allowing you to interact with the chatbot.
 
 
 ## 💬 Example Interaction
-You: Where is my order?
-
-Bot: You can track your order in the orders section.
-
-
+<img width="639" height="738" alt="image" src="https://github.com/user-attachments/assets/edaac4be-94ca-499b-a561-2dfa0d3f0995" />
 
 
 ## 🚀 Future Improvements
