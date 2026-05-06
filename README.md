@@ -52,7 +52,7 @@ The chatbot uses a CSV dataset containing question–answer pairs.
 ## ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/ai-chatbot-project.git
+git clone https://github.com/Seethalaxmi0103/ai-chatbot-project.git
 
 Move into the project folder:
 cd ai-chatbot-project
